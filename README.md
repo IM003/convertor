@@ -1,5 +1,8 @@
 # XML ⇄ JSON Converter (JavaFX)
 
+## 📸 Démonstration
+![Vidéo Demo 5min](https://youtu.be/tgMfD3pPl4Y?si=dbXbYBz9KJAuvJIl)
+
 ## Description
 Ce projet est une application Java permettant de convertir des données :
 - XML vers JSON
